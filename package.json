@@ -1,0 +1,42 @@
+{
+  "name": "tad-template-web-lite",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAppDiscipline/tad-template-web-lite.git"
+  },
+  "homepage": "https://github.com/TheAppDiscipline/tad-template-web-lite#readme",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint .",
+    "typecheck": "tsc -p tsconfig.app.json --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "gate": "npm run test && npm run lint && npm run typecheck && npm run build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@types/node": "25.3.5",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.4",
+    "@vitejs/plugin-react": "5.2.0",
+    "eslint": "10.10.0",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "eslint-plugin-react-refresh": "0.5.6",
+    "globals": "17.12.0",
+    "tsx": "4.23.13",
+    "typescript": "5.9.3",
+    "typescript-eslint": "8.70.0",
+    "vite": "8.0.16"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
