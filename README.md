@@ -25,6 +25,8 @@ La terminal mostrará una URL local. Ábrela en el navegador, completa los tres 
 - Probar persistencia local, navegación por teclado y un gate básico.
 - Revisar una base pequeña antes de decidir si necesitas el sistema completo.
 
+¿Quieres ver el proceso en una app terminada? Lee el [Caso 1: detectar y corregir un fallo en Habit Tracker](GUIA-CASO-01-HABIT-TRACKER.md). El Habit Tracker es una demo independiente de este starter.
+
 ## Qué no incluye
 
 Esta edición no contiene el Vault, los templates completos de Web, Mobile, Desktop y Extension, los agentes, las skills, los prompts, la orquestación, los backends ni los controles de lanzamiento del producto completo.
