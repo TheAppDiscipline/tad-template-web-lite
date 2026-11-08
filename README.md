@@ -27,6 +27,8 @@ La terminal mostrará una URL local. Ábrela en el navegador, completa los tres 
 
 ¿Quieres ver el proceso en una app terminada? Lee el [Caso 1: detectar y corregir un fallo en Habit Tracker](GUIA-CASO-01-HABIT-TRACKER.md). El Habit Tracker es una demo independiente de este starter.
 
+Si ya tienes un prototipo y piensas compartirlo, usa la [guía gratuita para comprobar una app hecha con IA antes de publicarla](GUIA-APP-IA-LISTA-PARA-PUBLICAR.md). Incluye una hoja de decisión para registrar qué probaste y qué falta.
+
 ## Qué no incluye
 
 Esta edición no contiene el Vault, los templates completos de Web, Mobile, Desktop y Extension, los agentes, las skills, los prompts, la orquestación, los backends ni los controles de lanzamiento del producto completo.
